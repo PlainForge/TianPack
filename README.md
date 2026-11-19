@@ -1,7 +1,7 @@
 <p style="text-align: center;"><img src="./Github Pictures/NewTianPackBanner.png" alt="App screenshot" width="800"></p>
 
 <p style="text-align: center;"><span style="font-size: 10px; font-family: arial, helvetica, sans-serif;">Made by me and my girlfriend</span></p> 
-<p style="text-align: center;">A collection of mods me and my girlfriend like.</p><p style="text-align: center;">**Need to allocate more than 8GB of Ram to be able to run this Modpack**.</p>
+<p style="text-align: center; font-weight: bolder">A collection of mods me and my girlfriend like.</p><p style="text-align: center;">**Need to allocate more than 8GB of Ram to be able to run this Modpack**.</p>
 
 <p style="text-align: center;"><img src="./Github Pictures/FeaturesBanner.png" alt="App screenshot" width="800"></p>
 
