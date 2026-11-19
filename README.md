@@ -1,4 +1,6 @@
-<p style="text-align: center;">![](https://media.forgecdn.net/attachments/description/623224/description_a498fad3-3591-496f-9e2b-aedd36fde6f7.png)</p><p style="text-align: center;"><span style="font-size: 10px; font-family: arial, helvetica, sans-serif;">Made by me and my girlfriend</span></p> <p style="text-align: center;">A collection of mods me and my girlfriend like.</p><p style="text-align: center;">**Need to allocate more than 8GB of Ram to be able to run this Modpack**.</p><p style="text-align: center;">  
+<p style="text-align: center;">![](./"Github Pictures"/NewTianPackBanner)</p>
+
+<p style="text-align: center;"><span style="font-size: 10px; font-family: arial, helvetica, sans-serif;">Made by me and my girlfriend</span></p> <p style="text-align: center;">A collection of mods me and my girlfriend like.</p><p style="text-align: center;">**Need to allocate more than 8GB of Ram to be able to run this Modpack**.</p><p style="text-align: center;">  
 ![](https://media.forgecdn.net/attachments/description/623224/description_e57573a3-a712-4a67-a133-9a97f7845463.png)</p><p style="text-align: left;">✔️ 300+ Mods</p><p style="text-align: left;">✔️ Tons of new structures</p><p style="text-align: left;">✔️ Thirs, Temperature, and Localize Body Damage System (Legendary Survival Overhaul) </p>
 
 ✔️ Tons of Furnitures and Decorations
