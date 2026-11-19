@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"reanimal:raw_crocodile_meat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cozyfoods:mango"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crittersandcompanions:grappling_hook"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crittersandcompanions:silk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bundle"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

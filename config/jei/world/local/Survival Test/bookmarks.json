@@ -1,0 +1,4 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"chalk:chalk_box","components":"{\"chalk:chalk_box_contents\":{glow:5,items:[{components:{\"minecraft:damage\":5,\"minecraft:dyed_color\":{rgb:-12827478}},count:1,id:\"chalk:chalk\"},{components:{\"minecraft:dyed_color\":{rgb:-6447721}},count:1,id:\"chalk:chalk\"},{components:{\"minecraft:damage\":50,\"minecraft:dyed_color\":{rgb:-816214}},count:1,id:\"chalk:chalk\"},{components:{\"minecraft:dyed_color\":{rgb:-12103854}},count:1,id:\"chalk:chalk\"},{},{},{components:{\"minecraft:dyed_color\":{rgb:-75715}},count:1,id:\"chalk:chalk\"},{},{},{count:1,id:\"minecraft:glow_ink_sac\"}],selected:0}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

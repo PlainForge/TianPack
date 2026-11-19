@@ -1,0 +1,4 @@
+#Right-clicking a shulker box / backpack in an inventory screen opens it (only while the cursor is empty).
+rightClickToOpen = true
+#If rightClickToOpen is on, additionally require Shift to be held.
+requireShiftForRightClick = false

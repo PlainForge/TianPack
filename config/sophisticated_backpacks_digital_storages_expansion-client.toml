@@ -1,0 +1,4 @@
+[crafting]
+	#Controls when the recipe selector and Fetch ingredients button are shown.
+	#Allowed Values: AUTO, SHOW, HIDE
+	manualControls = "AUTO"

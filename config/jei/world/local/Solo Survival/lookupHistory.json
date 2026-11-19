@@ -1,0 +1,20 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"barbequesdelight:tray"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"barbequesdelight:raw_salmon_skewer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"barbequesdelight:raw_vegetable_skewer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"amendments:dragon_charge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:lemon"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"framedblocks:framed_divided_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:oak_vertical_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:apple_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:crafting_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:upgrade_base"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bread"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:beetroot_seeds"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sweet_berries"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:orichalcum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"quark:shale"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

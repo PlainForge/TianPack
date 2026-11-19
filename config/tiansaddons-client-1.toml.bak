@@ -1,0 +1,16 @@
+#Right-clicking a shulker box / backpack in an inventory screen opens it (only while the cursor is empty).
+rightClickToOpen = true
+#If rightClickToOpen is on, additionally require Shift to be held.
+requireShiftForRightClick = false
+#Hide the item list overlay (and its settings button) of JEI / EMI / REI and use the item list panel next to the inventory instead. Recipe screens of those mods keep working.
+replaceRecipeViewerOverlay = true
+#Show the status effects of inventory screens as a row of icons above the inventory (name and time left in a tooltip) instead of the vanilla list on the right side, where the item list panel is.
+statusEffectsOnTop = true
+#Right-clicking a non-stackable item in the survival inventory puts it into a free Curios slot it fits (into a cosmetic slot while the cosmetic armor view is on). Stackable items are never equipped this way.
+rightClickEquipsCurios = true
+#Move the container tabs and the status effect row above tabs that other mods put on the top edge of the inventory, instead of drawing over them.
+avoidOtherTopTabs = true
+#Extra pixels to move the container tabs and the status effect row up, for mods whose tabs cannot be detected by themselves (tabs that are drawn by hand). One row of tabs is 28 pixels.
+# Default: 0
+# Range: 0 ~ 120
+extraTopOffset = 0

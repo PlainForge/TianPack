@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:golden_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"more_curios_slots:extra_hands_slot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"toolbelt:belt"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

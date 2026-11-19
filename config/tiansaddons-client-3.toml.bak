@@ -1,0 +1,8 @@
+#Right-clicking a shulker box / backpack in an inventory screen opens it (only while the cursor is empty).
+rightClickToOpen = true
+#If rightClickToOpen is on, additionally require Shift to be held.
+requireShiftForRightClick = false
+#Hide the item list overlay (and its settings button) of JEI / EMI / REI and use the item list panel next to the inventory instead. Recipe screens of those mods keep working.
+replaceRecipeViewerOverlay = true
+#Show the status effects of inventory screens as a row of icons above the inventory (name and time left in a tooltip) instead of the vanilla list on the right side, where the item list panel is.
+statusEffectsOnTop = true

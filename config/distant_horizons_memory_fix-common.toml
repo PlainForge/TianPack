@@ -1,0 +1,3 @@
+[general]
+	#Retire the audited Distant Horizons 3.3.3/3.3.4 per-request progress executor after request closure. Generation/retrieval/saves remain native.
+	enabled = true

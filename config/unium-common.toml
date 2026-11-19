@@ -1,0 +1,54 @@
+#Unium. Every switch can turn its feature back to vanilla. Changes apply after a restart.
+[general]
+	#Chunky pre-generation: chunks requested at once (Chunky's own default 50, kept if chunky.maxWorkingCount is set). 0 = leave Chunky's default.
+	# Default: 200
+	# Range: 0 ~ 1000
+	chunkyInFlight = 200
+	#Player chunk tickets in flight while exploring (vanilla 4; 0 = 4 per CPU, 16..64). The server lowers it by itself when ticks run late.
+	# Default: 0
+	# Range: 0 ~ 128
+	playerTicketSlots = 0
+	#Fast travel: generate the chunks a player is heading into a few seconds early (ordinary FULL chunks, not ticking).
+	prefetch = false
+	#Seconds of travel prepared ahead.
+	# Default: 4
+	# Range: 1 ~ 12
+	prefetchSeconds = 4
+
+#World generation steps taken off vanilla's single serial lane; each one is exact.
+[worldgen]
+	#Surface pass on worker threads.
+	asyncSurface = true
+	#Caves/ravines pass on worker threads.
+	asyncCarvers = true
+	#Structure starts on worker threads (one lock per mod).
+	asyncStructures = true
+	#Ores, trees, structure pieces on worker threads (area locks, one lock per mod).
+	asyncFeatures = true
+	#Worker tasks in vanilla's nearest-first order; chunks the server waits for first.
+	priorityPool = true
+	#Terrain noise and biomes in the same order.
+	prioritizedNoise = true
+	#Skip per-block work in air provably above the terrain.
+	skyCells = true
+	#Don't wait for stronghold placement near spawn (provably none there).
+	ringShortcut = true
+	#Vanilla jigsaw structures (villages...) without the per-mod lock (they keep no state).
+	lockFreeJigsaw = true
+	#Vanilla shipwrecks, ruins, monuments, mineshafts, temples... start without the per-mod lock (they keep no state; fortresses, strongholds and end cities stay locked).
+	lockFreeVanillaStructures = true
+	#Exact column cache for count_on_every_layer placements.
+	layerCache = true
+	#Remember terrain heights that structure placement asks for again (exact).
+	columnCache = true
+	#Skip biome lookups in searches whose biome filter accepts everything.
+	fastBiomeSearch = true
+
+#Compatibility and small caches.
+[compat]
+	#Lost Cities: run its per-tick follow-up work only on generated chunks (no freezes).
+	lostCitiesTodo = true
+	#Remember game-rule objects per world (values stay live).
+	gameRuleCache = true
+	#Build the vanilla registry set once (mods like Just Enough Resources ask for it on every join).
+	cacheVanillaLookup = true

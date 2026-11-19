@@ -1,0 +1,21 @@
+/spark gcmonitor
+/spark heapsummary
+/spark gcmonitor
+/spark heapsummary
+/gamemode survival
+/give @s minecraft:iron_ingot 64
+/give @s minecraft:oak_planks 64
+/gamemode creative
+/gamemode survival
+/time set day
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/effect give @s minecraft:regeneration 60 1
+/time set day
+/weather clear
+/gamemode creative
+/gamemode survival
+/time set day

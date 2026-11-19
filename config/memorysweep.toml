@@ -1,0 +1,8 @@
+#Enable periodic JVM memory cleanup.
+memory_sweep = true
+#Seconds between cleanups. Zero disables periodic cleanup.
+# Default: 900
+# Range: 0 ~ 2147483647
+sweep_interval_seconds = 900
+#Suppress cleanup notifications.
+silent = false

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"weaponleveling:broken","components":"{\"weaponleveling:contained_item\":{stack:{components:{\"minecraft:custom_data\":{}},count:1,id:\"minecraft:wooden_sword\"}}}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

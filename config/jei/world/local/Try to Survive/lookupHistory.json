@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"legendarysurvivaloverhaul:canteen"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"legendarysurvivaloverhaul:canteen","components":"{\"minecraft:custom_data\":{\"legendarysurvivaloverhaul:HydrationCapacity\":10,\"legendarysurvivaloverhaul:HydrationPurity\":\"normal\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"fruitsdelight:lemon"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cocktailsdelight:hops"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crittersandcompanions:acorn"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
