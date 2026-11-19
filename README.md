@@ -37,6 +37,4 @@
 
 <span style="font-family: arial, helvetica, sans-serif;">This pack also adds Simple Voice Chat mod with Physics, which is useful for servers (or Lan or with Essential Mod) and talking to your friends in-game. Learn how to set up the mod <a href="https://modrepo.de/minecraft/voicechat/wiki">here</a></span>
 
- undefined
-
 <span style="font-family: arial, helvetica, sans-serif;"><img src="https://imgur.com/zxMdvIt.png" width="720"></span>
